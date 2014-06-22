@@ -1,6 +1,5 @@
 ## Below are two functions that are used to create a special matrix 
-##and caches its mean
-
+##and caches its Inverse value.
 
 ## makeCacheMatrix creates a special "matrix", which is a list containing a 
 ## functions to do the following:
